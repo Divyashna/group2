@@ -1,0 +1,18 @@
+Purchases
+----------
+- chickenSandwichCost: double
+- spiceyChickenSandwichCost: double
+- friesSmallCost: double
+- friesMedCost: double
+- friesLargeCost: double
+- iceCream: double
+- chickenSandwichStock: int
+- spiceyChickenSandwichStock: int
+- friesSmallStock: int
+- friesMedStock: int
+- friesLargeStock: int
+- vanillaIceCreamStock: int
+- chocoIceCreamStock: int
+- strawIceCreamStock: int
+-----------------------------------------
++ 
